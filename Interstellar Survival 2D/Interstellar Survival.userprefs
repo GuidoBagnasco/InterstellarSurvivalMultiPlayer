@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ShipsMechanisms\EnemyShip.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Global\EnemySpawner.cs" Line="41" Column="19" />
+      <File FileName="Assets\Scripts\Global\SpawnerController.cs" Line="63" Column="2" />
+      <File FileName="Assets\Scripts\ShipsMechanisms\Ship.cs" Line="17" Column="26" />
+      <File FileName="Assets\Scripts\ShipsMechanisms\Dron.cs" Line="13" Column="24" />
+      <File FileName="Assets\Scripts\ShipsMechanisms\Enemy.cs" Line="123" Column="29" />
+      <File FileName="Assets\MenuAndStuffPackage\Scripts\Stuff\Raycaster2D.cs" Line="18" Column="16" />
+      <File FileName="Assets\Scripts\Global\Raycaster3D.cs" Line="8" Column="30" />
+      <File FileName="Assets\Scripts\ShipsMechanisms\EnemyShip.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bombs\PlasmaBomb.cs" Line="7" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

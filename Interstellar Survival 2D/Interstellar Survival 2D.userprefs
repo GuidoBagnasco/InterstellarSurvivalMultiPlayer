@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ShipsMechanisms\Dron.cs">
+    <Files>
+      <File FileName="Assets\MenuAndStuffPackage\Scripts\Button\UI\ButtonSwapOnKeyUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\ItemsCount.cs" Line="1" Column="1" />
+      <File FileName="Assets\IOSScreenTaker\MultipleScreenTaker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bombs\Bomb.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\AmbienceSoundPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShipsMechanisms\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShipsMechanisms\Ship.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShipsMechanisms\EnemyShip.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShipsMechanisms\AttackerType.cs" Line="12" Column="31" />
+      <File FileName="Assets\Scripts\ShipsMechanisms\Enemy.cs" Line="32" Column="2" />
+      <File FileName="Assets\Scripts\ShipsMechanisms\Health.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\Controller.cs" Line="7" Column="34" />
+      <File FileName="Assets\Scripts\ShipsMechanisms\Dron.cs" Line="114" Column="1" />
+      <File FileName="Assets\Scripts\ShipsMechanisms\Bullet.cs" Line="12" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
